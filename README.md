@@ -18,8 +18,8 @@ I make this project related to Ray Tracing.
 
 ***Wall Reflection0***
 
-![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/WallReflection0.png)
+![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/WallReflection1.png)
 
 ***Wall Reflection1***
 
-![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/WallReflextion1.png)
+![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/WallReflextion0.png)
