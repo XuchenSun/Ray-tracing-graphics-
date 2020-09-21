@@ -16,4 +16,6 @@ I make this project related to Ray Tracing.
 ***Shandow of Direct Light Source***
 ![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/ShandowOfDirectLightSource.png)
 
-***
+***Wall Reflection***
+![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/WallReflection1.png)
+![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/WallReflection0.png)
