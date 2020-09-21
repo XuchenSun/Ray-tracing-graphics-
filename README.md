@@ -6,5 +6,5 @@ Ureal Engine 4 is a cutting edge and powerfull software which produce computer g
 
 I make this project related to Ray Tracing.
 
+ ![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/shadowOfSun.png)
 
-!()[https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/shadowOfSun.png]
