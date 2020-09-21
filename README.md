@@ -9,3 +9,7 @@ I make this project related to Ray Tracing.
 ***Shandow of Sun***
  ![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/shadowOfSun.png)
 
+***Shandow of Direct Light Source***
+![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/ShandowOfDirectLightSource.png)
+
+***
