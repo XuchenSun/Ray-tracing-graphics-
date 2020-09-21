@@ -16,10 +16,10 @@ I make this project related to Ray Tracing.
 ***Shandow of Direct Light Source***
 ![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/ShandowOfDirectLightSource.png)
 
-***Wall Reflection0***
+***Wall Reflection(Dark)***
 
 ![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/WallReflection1.png)
 
-***Wall Reflection1***
+***Wall Reflection(Light)***
 
 ![](https://github.com/XuchenSun/Ray-tracing-in-UE4/blob/master/WallReflextion0.png)
